@@ -1,8 +1,18 @@
-# MaaAssistantArknightsUpdatedate
-How To Use? 将bat文件放入MAA项目根目录,需要Git软件进行更新,
-视频教程:【MAA停止资源自动更新了？简单小脚本解决 MAA资源自动更新脚本】 https://www.bilibili.com/video/BV18sHveFE3i
-作者:https://space.bilibili.com/26557678
-源代码:
+```
+
+```
+
+**#** **MaaAssistantArknightsUpdatedate**
+
+## How To Use? 将bat文件放入MAA项目根目录,需要Git软件进行更新
+
+### 视频教程:【MAA停止资源自动更新了？简单小脚本解决 MAA资源自动更新脚本】 https://www.bilibili.com/video/BV18sHveFE3i
+
+### 作者:https://space.bilibili.com/26557678
+
+### 源代码:
+
+```git
 @echo off
 setlocal
 @chcp 65001 > nul
@@ -53,3 +63,5 @@ if exist MAA.exe (
 @REM timeout /t 100 > nul
 
 endlocal
+```
+
