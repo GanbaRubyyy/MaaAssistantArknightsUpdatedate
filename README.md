@@ -1,7 +1,3 @@
-```
-
-```
-
 **#** **MaaAssistantArknightsUpdatedate**
 
 ## How To Use? 将bat文件放入MAA项目根目录,需要Git软件进行更新
